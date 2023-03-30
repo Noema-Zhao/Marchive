@@ -1,0 +1,12 @@
+{
+  "name": "marchive",
+  "version": "1.0.0",
+  "description": "A mobile app that explores the world of matrilineal cultures",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
+

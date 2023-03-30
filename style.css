@@ -1,0 +1,18 @@
+/* This is a sample CSS file for your app */
+/* Feel free to customize it as needed */
+
+body {
+  background-color: #f0f0f0;
+}
+
+h1 {
+  color: #008080;
+  font-size: 2em;
+}
+
+p {
+  color: #333;
+  font-size: 1.2em;
+  line-height: 1.5em;
+}
+
